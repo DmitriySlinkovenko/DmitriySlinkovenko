@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dmitriy Slinkovenko</h1>
 <h3 align="center">A passionate full stack developer from Brooklyn, NY</h3>
 
-- 🔭 I’m currently working on **back end for my News Explorer App**
+- 🔭 I’m currently working on **Animated parallax permanent makeup website** for a client.
 
-- 🌱 I’m currently learning **Express.js and SQL to have a deeper knowledge of back end.**
+- 🌱 I’m currently learning **Amazon AWS.**
+
+- My portfolio website (https://main.d1td2xkq4kk9nv.amplifyapp.com/)
 
 - My full stack [What to Wear App](https://www.wtwr.root.sx/)
 

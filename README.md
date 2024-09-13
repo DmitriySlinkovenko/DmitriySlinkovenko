@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon AWS.**
 
-- My portfolio [website](https://main.d1td2xkq4kk9nv.amplifyapp.com/)
+- My portfolio [website](https://dmitriy-slinkovenko.com/)
 
 - My full stack [What to Wear App](https://www.wtwr.root.sx/)
 

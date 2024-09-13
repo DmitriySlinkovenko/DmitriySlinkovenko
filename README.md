@@ -9,6 +9,8 @@
 
 - My full stack [What to Wear App](https://www.wtwr.root.sx/)
 
+- My other full stack [News Explorer](https://news-explorerds22.root.sx/)
+
 - My front end [Around the US](https://dmitriyslinkovenko.github.io/se_project_aroundtheus/)
 
 - 📫 How to reach me **dmitriy.slinkovenko@gmail.com**

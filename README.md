@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriySlinkovenko&show_icons=true&locale=en&layout=compact" alt="dmitriyslinkovenko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriySlinkovenko&" alt="dmitriyslinkovenko" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=DmitriySlinkovenko" alt="GitHub Streak" /></p>
 
 
 <!---
